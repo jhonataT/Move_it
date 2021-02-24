@@ -54,4 +54,10 @@
 
     font-size: 1.25rem;
     font-weight: 600;
+
+    transition: background-color 0.2s;
+}
+
+.countdownButton:hover {
+    background: var(--blue-dark);
 }
