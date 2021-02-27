@@ -3,7 +3,7 @@ import challenges from '../../challenges.json';
 
 interface Challenge {
   type: 'body' | 'eye';
-  desription: string;
+  description: string;
   amount: number;
 }
 
