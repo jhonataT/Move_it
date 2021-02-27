@@ -1,3 +1,4 @@
+import { ChallengesProvider } from '../contexts/ChallengeContext';
 import styles from '../styles/components/ChallengeBox.module.css';
 
 export const ChallengeBox = () => {
